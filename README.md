@@ -12,8 +12,3 @@ Hellow world! 반갑습니다👋 저는 민재홍입니다!<br>
 ## 연락 정보
 
 - 이메일: woghdwoghd113@naver.com
-
-## Repo. 구성
-### [Perceptron 구현]
-- 링크 : https://github.com/woghdwoghd113/Study/tree/main/Perceptron%20%EA%B5%AC%ED%98%84
-- 딥러닝 프레임워크 미사용 및 Pytorch를 활용해 각각 구현해본 MLP 코드
